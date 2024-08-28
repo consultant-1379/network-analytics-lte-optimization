@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3174</product-id>
+	<feature-name>Ericsson-LTE-Optimization-Analysis</feature-name>
+	<release>16B</release>
+	<system-area>LTE/LTE Optimization</system-area>
+    <datasource-guid>16b21e97-03b7-4701-8b1d-73ae8532942c</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
